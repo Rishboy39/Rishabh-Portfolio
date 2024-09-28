@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Menu Master"
-              description=" A Hackathon AI Project which takes a trained model with a Octo API key and is a chatbot that can answer any questuon you have a about a certian menu from a resturant."
+              description=" A Hackathon AI Project which takes a trained model with a Octo API key and is a chatbot that can answer any questuon you have a about a certain menu from a resturant."
               ghLink="https://github.com/Rishboy39/Menu-Master"
             
             />
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Gauss-Elimination"
-              description="Using Html and css and python made a Gauss Jordan Solver which is just a complicated math fucntion to find the vaues of varibakes with numerous equations adn variables."
+              description="Using Html and Css and Python made a Gauss Jordan Solver which is just a complicated math function to find the values of variables with numerous equations ."
               ghLink="https://github.com/Rishboy39/gauss-Elimination"
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Python Files Organizer"
-              description=" Simple Python Program that takes in the files in a particual folder stored locally and organizes them based on file extentions."
+              description=" Simple Python Program that takes in the files in a particular folder stored locally and organizes them based on file extentions."
               ghLink="https://github.com/Rishboy39/Files-Cleaner"          
             />
           </Col>
