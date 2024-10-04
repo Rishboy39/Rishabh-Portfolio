@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Namaste. I am <span className="purple">Rishabh Menasinakayi. </span>
+            Namaste.I am <span className="purple">Rishabh Menasinakayi. </span>
             and I hail from <span className="purple"> Redmond, Washington.</span>
             <br />
             I go to Tesla STEM High School, after completing 8th grade at Rose Hill Middle School.
