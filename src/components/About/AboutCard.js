@@ -8,25 +8,28 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Rishabh Menasinakayi </span>
-            from <span className="purple"> Redmond, Washington.</span>
+            Namaste. I am <span className="purple">Rishabh Menasinakayi. </span>
+            and I hail from <span className="purple"> Redmond, Washington.</span>
             <br />
-            I am currently studying High School
+            I go to Tesla STEM High School, after completing 8th grade at Rose Hill Middle School.
             <br />
-            I have completed Elementary and middle school in India and moved to America during High School
+            I completed elementary and most of middle school in India and moved to America in 2021.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do include:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Video Games
             </li>
             <li className="about-activity">
               <ImPointRight /> Playing Sports
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+              <li className="about-activity">
+              <ImPointRight /> Intellectual Activities
             </li>
           </ul>
 
